@@ -1,0 +1,622 @@
+first_name,last_name,gender,title,company,year_funded
+Alexis,Ohanian,Male,Co-Founder,Reddit,2005
+Steve,Huffman,Male,Co-Founder,Reddit,2005
+Gerald,Yuen,Male,Co-Founder,TextPayMe,2005
+Philip,Yuen,Male,Co-Founder and CEO,TextPayMe,2005
+CJ,Huang,--,Co-Founder,TextPayMe,2005
+Alok,Deshpande,--,Co-founder and Head of Product,Loopt,2005
+Sam,Altman,Male,Co-Founder/CEO,Loopt,2005
+Nick,Sivo,Male,Co-Founder/CTO,Loopt,2005
+Michael,Caruso,Male,Co-Founder and CEO,ClickFacts,2005
+Trip,Adler,Male,CEO/Co-Founder,Scribd,2006
+Jared,Friedman,Male,CTO/Co-Founder,Scribd,2006
+Tikhon,Bernstam,--,COO/Co-Founder,Scribd,2006
+Adam,Smith,Male,Co-founder,Xobni,2006
+Matt,Brezina,Male,Co-founder and Board of Director,Xobni,2006
+Samuel,Hsiung,Male,Co-Founder,YouOS,2006
+Jeff,Mellen,Male,Co-Founder,YouOS,2006
+Joe,Wong,Male,Co-Founder,YouOS,2006
+Srini,Panguluri,--,Co-Founder,YouOS,2006
+Ryan,Campbell,Male,Co-founder,Infinity Box,2006
+Kevin,Hale,Male,Co-founder,Infinity Box,2006
+Chris,Campbell,Male,Co-founder,Infinity Box,2006
+Sergei,Tsarev,Male,Founder / CTO,Clustrix,2006
+Paul,Mikesell,Male,Founder / CEO / VP Engineering,Clustrix,2006
+Charles,Forman,Male,Founder,OMGPOP,2006
+Cole,Rise,Male,Founder,Flagr,2006
+Matt,Colyer,Male,Co-Founder,Flagr,2006
+Adam,Siegel,Male,Founder & CEO,Inkling,2006
+Shashank,Pandit,--,Founder,Buxfer,2007
+Ashwin,Bharambe,--,"CEO, Founder",Buxfer,2007
+Luxiou,Chen,--,Founder,Anywhere.FM,2007
+Anson,Tsai,Male,Founder,Anywhere.FM,2007
+Sachin,Rekhi,--,Founder,Anywhere.FM,2007
+Drew,Houston,Male,Founder & CEO,Dropbox,2007
+Arash,Ferdowsi,--,Founder & CTO,Dropbox,2007
+Devin,Hunt,Male,Co Founder,Conecta 2,2007
+Ryan,Seekely,Male,Co-founder,Conecta 2,2007
+Daniel,Ha,Male,Co-Founder,Disqus,2007
+Jason,Yan,Male,Co-Founder,Disqus,2007
+Chad,Remesch,Male,Founder and CTO,DraftMix,2007
+Joe,Hruska,Male,Founder and CEO,RescueTime,2007
+Tony,Wright,Male,Founder & CEO,RescueTime,2007
+Brian,Fioca,Male,Founder,RescueTime,2007
+John,Puskarich,Male,Co - Founder,Bountii,2007
+Samir,Meghani,--,Co - Founder,Bountii,2007
+Kyle,Vogt,Male,"General Manager, Founder",Justin.TV,2007
+Justin,Kan,Male,Founder & CEO,Justin.TV,2007
+Adam,Siegel,Male,Founder & CEO,Inkling,2007
+Peter,Nixey,Male,Cofounder,Clickpass,2007
+Immad,Akhund,--,CTO and Co-founder,Clickpass,2007
+Patrick,Collison,Male,Cofounder,Auctomatic,2007
+Harjeet,Taggar,--,Co-founder,Auctomatic,2007
+Dan,Veltri,Male,Founder & COO,Weebly,2007
+David,Rusenko,Male,Founder & CEO,Weebly,2007
+Chris,Fanini,Male,Founder & CTO,Weebly,2007
+Vinay,Pulim,--,Co-Founder,Reble,2007
+Vijay,Mani,Male,Co-Founder,Zecter,2007
+David,Zhao,Male,Founder & CEO,Zecter,2007
+Kevin,West,Male,Founder,Zecter,2007
+PÃ¤r,Lindhe,--,Co-founder,Heysan,2007
+Marie,Brattberg,Female,Co-founder/Product Manager,Heysan,2007
+Michael,Ossareh,Male,Co-founder & Tech Lead,Heysan,2007
+Luke,Iannini,Male,Founder,Hello Chair,2007
+Kevin,Corcoran,Male,Founder,Hello Chair,2007
+Michael,Jacobs,Male,Founder,Hello Chair,2007
+Harish,Agarwal,--,co-founder,Octopart,2007
+Andres,Morey,Male,Co-Founder,Octopart,2007
+Sam,Wurzel,Male,Co-Founder and CEO,Octopart,2007
+Blake,Ross,Male,Co-founder,Parakey,2007
+Joe,Hewitt,Male,Co-founder,Parakey,2007
+Adam,Wiggins,Male,Founder & CTO,Heroku,2008
+James,Lindenbaum,Male,Founder/CEO,Heroku,2008
+Abigail,Kirigin,Female,Co-Founder & CEO,Tipjoy,2008
+Ivan,Kirigin,Male,Co-Founder & CTO,Tipjoy,2008
+Michael,Sherrill,Male,Founder and CCO,"Machine Zone, Inc.",2008
+Gabriel,Leydon,Male,Founder and CEO,"Machine Zone, Inc.",2008
+Halbert,Nakagawa,--,Founder and CTO,"Machine Zone, Inc.",2008
+Wilkins,Chung,--,Co-founder,Chatterous,2008
+Kenshi,Arasaki,--,Co-founder,Chatterous,2008
+Tim,Davey,Male,Co-Founder,Snaptalent,2008
+Brad,Cater,Male,Co-Founder,Snaptalent,2008
+Jamie,Quint,Male,Co-Founder,Snaptalent,2008
+Sumon,Sadhu,--,"CEO, Co-Founder",Snaptalent,2008
+Ryan,Junee,Male,CEO and Co-Founder,Omnisio,2008
+Julian,Frumar,Male,Co-Founder,Omnisio,2008
+Simon,Ratner,Male,Co-Founder,Omnisio,2008
+Sascha,Kuzins,Male,Co-Founder,Ninite,2008
+Patrick,Swieskowski,Male,Co-Founder,Ninite,2008
+Philipp,Pfeiffenberger,--,Co-Founder,Deluux,2008
+Paul,Mckellar,Male,Co-Founder,Deluux,2008
+Andrew,Dudley,Male,Co-Founder,Wundrbar,2008
+Nick,Grandy,Male,Co-Founder,Wundrbar,2008
+Jorge,Ortiz,Male,Co-Founder,Joberator,2008
+Brian,Eggleston,Male,Founder & President,Joberator,2008
+Brett,Gibson,Male,Co-Founder,Posterous,2008
+Sachin,Agarwal,--,Founder/CEO/Board of Directors,Posterous,2008
+Garry,Tan,Male,Co-Founder,Posterous,2008
+Dan,Morin,Male,CoFounder,Anyvite,2008
+Jeff,Morin,Male,CoFounder,Anyvite,2008
+D. Scott,Phoenix,--,Co-Founder & CEO,Frogmetrics,2008
+Jeremy,Mims,Male,Founder,Frogmetrics,2008
+Christopher,Golda,Male,Founder,BackType,2008
+Michael,Montano,Male,Founder,BackType,2008
+Jeff,Vyduna,Male,Founder & CEO,Poll Everywhere,2008
+Brad,Gessler,Male,Founder & CTO,Poll Everywhere,2008
+Sean,Eby,Male,CFO & Co-founder,Poll Everywhere,2008
+John,Baunach,Male,Co-Founder,slinkset,2008
+Alexander,Wissner-Gross,Male,Founder & Chief Scientist,Enernetics,2008
+Alan,Hoffman,Male,Founder & President,Cloudant,2008
+Adam,Kocoloski,Male,Founder & CTO,Cloudant,2008
+Michael,Miller,Male,Founder & Chief Scientist,Cloudant,2008
+Tom,Preston-Werner,Male,Co-Founder / CEO,GitHub,2008
+Chris,Wanstrath,Male,Founder,GitHub,2008
+PJ,Hyett,--,Founder / COO,GitHub,2008
+Amir,Nathoo,--,Co-Founder and CEO,Trigger.io,2008
+James,Brady,Male,Co-Founder & CTO,Trigger.io,2008
+Zachary,Garbow,Male,Founder,8aweek,2008
+David,Fowler,Male,Founder,8aweek,2008
+Daniel,Rhodes,Male,Co-Founder,RevziTV,2009
+Chrys,Bader-Wechseler,--,Co-Founder,RevziTV,2009
+Nathan,Blecharczyk,Male,Co-Founder & CTO,Airbnb,2009
+Brian,Chesky,Male,Co-Founder & CEO,Airbnb,2009
+Joe,Gebbia,Male,Co-Founder & CPO,Airbnb,2009
+Jake,Mintz,Male,"Co-founder, Product Manager, Data",Bump Technologies,2009
+David,Lieb,Male,co-founder / CEO,Bump Technologies,2009
+Andy,Huibers,Male,co-founder,Bump Technologies,2009
+Tim,Trefren,Male,Co-Founder,Mixpanel,2009
+Suhail,Doshi,--,CEO & Co-Founder,Mixpanel,2009
+Slava,Akhmechet,--,Founder,RethinkDB,2009
+Michael,Glukhovsky,Male,Founder,RethinkDB,2009
+Michael,J.T. O'Kelly,Male,Co-Founder,HighlightCam,2009
+Michael,Katsevman,Male,Co-Founder,HighlightCam,2009
+Marty,Wetherall,Male,"Co-Founder, CEO",FanChatter,2009
+Nate,Kimmons,Male,Co-Founder,FanChatter,2009
+Luke,Francl,Male,Co-Founder,FanChatter,2009
+Norm,Orstad,Male,Co-Founder,FanChatter,2009
+Gee,Chuang,--,founder,Listia,2009
+James,Fong,Male,Co-Founder,Listia,2009
+Jon,Wheatley,Male,Co-Founder,DailyBooth,2009
+Ryan,Amos,Male,"Co-Founder, Lead Developer",DailyBooth,2009
+Greg,Nemeth,Male,Co-Founder,WakeMate,2009
+Arun,Gupta,--,Co-Founder,WakeMate,2009
+Craig,Lewiston,Male,Co-Founder,WakeMate,2009
+Tom,Davis,Male,Co-Founder,WakeMate,2009
+Savraj,Singh,--,Founder,Wattvision,2009
+Chris,Varenhorst,Male,Founder,Lingt,2009
+Justin,Cannon,Male,Founder,Lingt,2009
+Bill,Clerico,Male,"CEO, Co-Founder",WePay,2009
+Jon,Bracy,Male,Co-Founder,FlightCaster,2009
+Evan,Konwiser,Male,Co-Founder,FlightCaster,2009
+James,Bracy,Male,Co-Founder,FlightCaster,2009
+Jason,Freedman,Male,Co-Founder,FlightCaster,2009
+Bradford,Cross,Male,Co-Founder,FlightCaster,2009
+Justin,Yoshimura,Male,Founder & CEO,500Friends,2009
+Hong,Hu,--,Co-Founder,500Friends,2009
+Bob,Tekiela,Male,"Co-Founder, CTO",500Friends,2009
+Jude,Gomila,Male,"President, Co-founder",Heyzap,2009
+Immad,Akhund,--,CEO and Co-founder,Heyzap,2009
+Tom,Howard,Male,Co-founder,Adioso,2009
+Fenn,Bailey,--,Co-founder,Adioso,2009
+Michael,Young,Male,Product Guru and Co-Founder,CarWoo!,2009
+Tommy,McClung,Male,CEO and Co-Founder,CarWoo!,2009
+Anson,Tsai,Male,Founder and CEO,Cardpool,2009
+Timothy,Wong,Male,Founder and CTO,Cardpool,2009
+Dan,Siroker,Male,Co-Founder & CEO,Optimizely,2009
+Pete,Koomen,Male,Co-Founder & President,Optimizely,2009
+Dana,Levine,Male,cofounder,InstantQ,2009
+James,Miao,Male,Co-Founder,thesixtyone,2009
+Samuel,Hsiung,Male,Co-Founder,thesixtyone,2009
+Andrea,Barrica,Female,Co-Founder,inDinero,2010
+Andy,Su,Male,Co-Founder/CTO,inDinero,2010
+Howie,Liu,Male,co-founder,Etacts,2010
+Evan,Beard,Male,co-founder,Etacts,2010
+Matt,Long,Male,Co-founder & Developer,Crocodoc,2010
+Ryan,Damico,Male,Founder & CEO,Crocodoc,2010
+Bennett,Rogers,Male,Co-founder & Developer,Crocodoc,2010
+Peter,Lai,Male,Co-founder & Developer,Crocodoc,2010
+Steve,Heffernan,Male,Co-Founder/Partner,Zencoder,2010
+Brandon,Arbini,Male,Co-Founder and VP of Product Development/Engineering,Zencoder,2010
+Jon,Dahl,Male,Co-Founder and CEO,Zencoder,2010
+Joe,Fahrner,Male,Founder & President,InboxQ,2010
+Jason,Konrad,Male,Co-Founder & Lead Developer,InboxQ,2010
+Thomas,Pun,Male,Co-Founder,NOWBOX,2010
+James,Black,Male,Co-Founder,NOWBOX,2010
+David,Kelso,Male,Co-Founder,NOWBOX,2010
+Jeremy,Mims,Male,Founder,OwnLocal,2010
+Lloyd,Armbrust,Male,Cofounder & CEO,OwnLocal,2010
+Jason,Novek,Male,Cofounder & CTO,OwnLocal,2010
+Brett,Huneycutt,Male,Founder,1000memories,2010
+Rudy,Adler,Male,Founder,1000memories,2010
+Jonathan,Good,Male,Founder,1000memories,2010
+Sam,Stokes,Male,Co-founder,Rapportive,2010
+Martin,Kleppmann,Male,Co-founder,Rapportive,2010
+Rahul,Vohra,Male,Co-founder,Rapportive,2010
+Sean,Creeley,Male,Founder,Embedly,2010
+Art,Gibson,Male,Founder,Embedly,2010
+Argyris,Zymnis,Male,Founder,AdGrok,2010
+Matthew,McEachen,Male,Founder,AdGrok,2010
+Antonio,Garcia-Martinez,Male,"Founder, CEO",AdGrok,2010
+Adam,Goldstein,Male,Co-Founder,Hipmunk,2010
+Steve,Huffman,Male,Co-Founder,Hipmunk,2010
+Ray,Grieselhuber,Male,CEO & Founder,GinzaMetrics,2010
+Nick,Allen,Male,Co-Founder & VP of Engineering,GinzaMetrics,2010
+David,Fowler,Male,"Founder, CEO",Chartio,2010
+Daniel,Levine,Male,"Founder, CEO",Chartio,2010
+Mike,Johnston,Male,Founder,Simperium,2010
+Fred,Cheng,Male,Founder,Simperium,2010
+Rod,Ebrahimi,Male,Co-founder/CEO,ReadyForZero,2010
+Ignacio,Thayer,Male,Co-founder,ReadyForZero,2010
+Ricky,Yean,Male,Co-Founder & CEO,Crowdbooster,2010
+David,Tran,Male,Co-Founder,Crowdbooster,2010
+Mark,Linsey,Male,Co-Founder,Crowdbooster,2010
+Alex,Krupp,Male,Co-founder & CEO,LaunchHear,2010
+Allan,Young,Male,Founder,LaunchHear,2010
+Jason,Wilk,Male,Founder,140Fire,2010
+Paras,Chitakar,Male,Founder,140Fire,2010
+Sonali,Sridhar,Female,Co-founder,Hacker School,2010
+Nicholas,Bergson-Shilcock,Male,Co-founder,Hacker School,2010
+David,Albert,Male,Co-founder,Hacker School,2010
+Jason,Gavris,Male,Co-founder,MessageParty,2010
+Sean,Ahrens,Male,"Co-founder, Developer",MessageParty,2010
+Joe,Pestro,Male,Co-Founder & Lead Developer,Fanvibe,2010
+Art,Chang,Male,Co-Founder & Lead Architect,Fanvibe,2010
+Vishwas,Prabhakara,Male,Founder & CEO,Fanvibe,2010
+Weihan,Wang,Male,"Co-Founder, CTO",AeroFS,2010
+Baskar,Puvanathasan,Male,Cofounder,PagerDuty,2010
+Alex,Solomon,Male,Cofounder & CEO,PagerDuty,2010
+Andrew,Miklas,Male,Cofounder & CTO,PagerDuty,2010
+Ernest,Ngaruiya,Male,Co-founder,E la Carte,2010
+Rajat,Suri,Male,Founder/CEO,E la Carte,2010
+Tom,Preston-Werner,Male,Co-Founder / CEO,GitHub,2010
+Chris,Wanstrath,Male,Founder,GitHub,2010
+PJ,Hyett,Male,Founder / COO,GitHub,2010
+Solomon,Hykes,Male,Founder - CTO,dotCloud,2010
+Federico,Barbagli,Male,Founder,gantto,2010
+John,Collison,Male,Cofounder,Stripe,2010
+Patrick,Collison,Male,Cofounder + CEO,Stripe,2010
+Kovas,Boguta,Male,Founder and CTO,Infoharmoni,2010
+Adora,Cheung,Female,Co-Founder and CEO,Homejoy,2010
+Aaron,Cheung,Male,Co-Founder and VP of Growth,Homejoy,2010
+Leah,Culver,Female,Co-founder,Convore,2011
+Eric,Florenzano,Male,Co-founder,Convore,2011
+Eric,Maguire,Male,Co-founder,Convore,2011
+Courtland,Allen,Male,Co-founder,Taskforce,2011
+Husain,Al-Mohssen,Male,Co-Founder,Taskforce,2011
+Abdulrahman,Tarbzouni,Male,Co-founder,Taskforce,2011
+Niccolo,Pantucci,Male,Co-founder,Taskforce,2011
+Wil,Chung,Male,Co-Founder,Noteleaf,2011
+Gordon,Chen,Male,Founder & President,YouGotListings,2011
+Daniel,Kivatinos,Male,Co-founder / COO,drchrono,2011
+Michael,Nusimow,Male,Co-founder / CEO,drchrono,2011
+TJ,Murphy,Male,Co-Founder,MinoMonsters,2011
+Josh,Buckley,Male,Founder & CEO,MinoMonsters,2011
+Christine,Yen,Female,Co-founder,Venuetastic,2011
+Helen,Belogolova,Female,Co-founder,Venuetastic,2011
+Adam,Prout,Male,VP of Engineering & Co-Founder,MemSQL,2011
+Eric,Frenkiel,Male,CEO & Co-Founder,MemSQL,2011
+Nikita,Shamgunov,Male,CTO & Co-Founder,MemSQL,2011
+Greg,Cooper,Male,"Co-Founder, UI Designer",BakedCode,2011
+Simon,Fletcher,Male,"Co-Founder, Developer",BakedCode,2011
+Buster,Benson,Male,"CEO, Founder",Habit Labs,2011
+Jen,McCabe,Female,"CEO, Founder",Habit Labs,2011
+Michael,Dwan,Male,Cofounder,Snapjoy,2011
+JP,Ren,Male,Cofounder,Snapjoy,2011
+Arram,Sabeti,Male,Founder,ZeroCater,2011
+Bill,Moorier,Male,Co-Founder & CTO,ZeroCater,2011
+Kevin,Lacker,Male,Co-Founder,Parse,2011
+James,Yu,Male,Co-Founder,Parse,2011
+Ilya,Sukhar,Male,Co-Founder,Parse,2011
+Tikhon,Bernstam,Male,Co-Founder,Parse,2011
+Omar,Seyal,Male,Co-Founder,Tagstand,2011
+Kulveer,Taggar,Male,"CEO, co-founder",Tagstand,2011
+Srini,Panguluri,Male,Co-Founder,Tagstand,2011
+Rajiv,Bhat,Male,Co-founder,Mertado,2011
+Vijay,Chittoor,Male,Co-founder,Mertado,2011
+Tom,Saffell,Male,Founder,SellStage,2011
+Thomas,Escourrou,Male,Founder,SellStage,2011
+Zach,Sims,Male,Founder,Codecademy,2011
+Ryan,Bubinski,Male,Founder,Codecademy,2011
+Brendan,Lim,Male,Co-founder,Kicksend,2011
+Pradeep,Elankumaran,Male,Co-founder & CEO,Kicksend,2011
+Rick,Morrison,Male,Founder & CEO,Comprehend Systems,2011
+Jud,Gardner,Male,Founder & CTO,Comprehend Systems,2011
+Scott,Milliken,Male,Founder,MixRank,2011
+Dan,Knox,Male,Co-Founder,Science Exchange,2011
+Elizabeth,Iorns,Female,Co-Founder,Science Exchange,2011
+Ryan,Abbott,Male,Co-Founder,Science Exchange,2011
+Ryan,Bednar,Male,"Co-Founder, Engineering",Tutorspree,2011
+Aaron,Harris,Male,Co-Founder and CEO,Tutorspree,2011
+Josh,Abrams,Male,"Co-Founder, Operations",Tutorspree,2011
+Omar,Bohsali,Male,Co-Founder,Priceonomics,2011
+Rohin,Dhar,Male,Co-Founder,Priceonomics,2011
+Mikael,Bernstein,Male,CEO & Co-Founder,Verbling,2011
+Gustav,Rydstedt,Male,CTO & Co-Founder,Verbling,2011
+Jacob,Jolis,Male,Cofounder & CEO,Verbling,2011
+Alison,Di Spaltro,Female,Founder,42Floors,2011
+Darren,Nix,Male,Founder,42Floors,2011
+Jon,Bracy,Male,Founder,42Floors,2011
+Justin,Bedecarre,Male,Co-Founder,42Floors,2011
+Jason,Freedman,Male,Co-Founder,42Floors,2011
+Ben,Ehmke,Male,Founder,42Floors,2011
+James,Bracy,Male,Founder,42Floors,2011
+Aaron,O'Connell,Male,Founder,42Floors,2011
+James,D. Shkolnik,Male,Founder,Rentobo,2011
+Shaun,Davis,Male,Founder,Rentobo,2011
+Nikhil,Abraham,Male,Co-Founder,Rentobo,2011
+Matt,Kopko,Male,Co-Founder,Rentobo,2011
+Jon,Pospischil,Male,Co-Founder,Custora,2011
+Corey,Pierson,Male,Co-Founder,Custora,2011
+Vivek,Ravisankar,Male,Co-founder,HackerRank,2011
+Harishankaran,Karunanidhi,Male,Co-founder,HackerRank,2011
+Victor,Ho,Male,Co-Founder and CEO,FiveStars Loyalty,2011
+Matt,Doka,Male,Co-Founder and CTO,FiveStars Loyalty,2011
+Jamie,Wong,Female,Co-Founder and CEO,Vayable,2011
+Andy,Russell,Male,Co-Founder,Launchpad Toys,2011
+Thushan,Amarasiriwardena,Male,Co-Founder,Launchpad Toys,2011
+David,Rolnitzky,Male,"Co-founder, CPO",MobileWorks,2011
+Anand,Kulkarni,Male,"Co-founder, CEO",MobileWorks,2011
+Prayag,Narula,Male,"Co-founder, CTO",MobileWorks,2011
+Philipp,Gutheim,Male,"Co-founder, COO",MobileWorks,2011
+Darshan,Shankar,Male,Founder & CEO,Flotype,2011
+Kurt,Ericson,Male,Co-founder,AgileMD,2011
+Borna,Safabakhsh,Male,Co-founder & CEO,AgileMD,2011
+Jonathan,Chang,Male,Co-Founder,Glassmap,2011
+Geoffrey,Woo,Male,Co-Founder,Glassmap,2011
+Jon,Zhang,Male,Co-Founder,Glassmap,2011
+Jason,Traff,Male,Founder,Leaky,2011
+Geoffry,Sumter,Male,Co-founder,Leaky,2011
+Jake,Piccolo,Male,Co-founder,Leaky,2011
+Chris,Auer,Male,Co - Founder,MarketBrief,2011
+Jason,Zucchetto,Male,Co - Founder,MarketBrief,2011
+Michael,Shafrir,Male,Co - Founder,MarketBrief,2011
+Andy,Zhang,Male,Co-Founder,Munch On Me,2011
+Tony,Li,Male,Co-Founder,Munch On Me,2011
+Richard,Din,Male,Co-Founder and CTO,Munch On Me,2011
+Jason,Wang,Male,Co-Founder and CEO,Munch On Me,2011
+W,David Turner,Male,Founder,PageLever,2011
+Jeff,Widman,Male,Founder,PageLever,2011
+Hamilton,Chan,Male,Founder & CEO,Paperlinks,2011
+Ryan,Mickle,Male,Founder,Yardsale,2011
+Ed,McManus,Male,Founder,Yardsale,2011
+Amir,Hirsch,Male,Founder & CEO,Zigfu,2011
+Allan,Grant,Male,Co-founder & CEO,Curebit,2011
+Dominic,Coryell,Male,Co-founder & President,Curebit,2011
+Jeff,Yee,Male,Co-founder & CTO,Curebit,2011
+Nori,Yoshida,Male,Co-founder,Curebit,2011
+Neal,O'Mara,Male,Co-founder & CTO,HelloFax,2011
+Joseph,Walla,Male,Co-founder & CEO,HelloFax,2011
+John,Egan,Male,Co-Founder,Sendoid,2011
+Zac,Morris,Male,Co-Founder,Sendoid,2011
+Jason,Corwin,Male,Founder and CEO,TellFi,2011
+Zain,Memon,Male,Founder and CTO,TellFi,2011
+Conor,Lee,Male,Co-Founder,TellFi,2011
+Jiyan,Wei,Male,Co-Founder,BuildZoom,2012
+David,Petersen,Male,Co-Founder,BuildZoom,2012
+Jon,Pospischil,Male,Co-Founder,Custora,2012
+Corey,Pierson,Male,Co-Founder,Custora,2012
+Christopher,Steiner,Male,co-founder,Aisle50,2012
+Riley,Scott,Male,co-founder,Aisle50,2012
+Darshan,Shankar,Male,Founder & CEO,Flotype,2012
+Ian,Leighton,Male,Co-Founder,Embark,2012
+David,Hodge,Male,"Co-Founder, CEO",Embark,2012
+Taylor,Malloy,Male,Co-Founder,Embark,2012
+Tom,Hauburger,Male,Co-Founder,Embark,2012
+Ajoy,Sojan,Male,Co - Founder,Quartzy,2012
+Jayant,Kulkarni,Male,Co - Founder & Generalist,Quartzy,2012
+Adam,Regelman,Male,Co - Founder,Quartzy,2012
+Meena,George,Male,Co-Founder,Quartzy,2012
+Tracy,Young,Male,"Co-Founder, COO",PlanGrid,2012
+Ralph,Gootee,Male,"Co-Founder, CTO",PlanGrid,2012
+Ryan,Sutton-Gee,Male,"Co-Founder, CEO",PlanGrid,2012
+Kenny,Stone,Male,"Co-Founder, VP Engineering",PlanGrid,2012
+Yiming,Liu,Male,Founder and Chief Platform Officer,Ark,2012
+Patrick,Riley,Male,Founder and Chief Executive Officer,Ark,2012
+Ryan,Pfeffer,Male,Co-Founder,SendHub,2012
+Ash,Rust,Male,Co-Founder,SendHub,2012
+Garrett,Johnson,Male,Co-Founder,SendHub,2012
+John,Fallone,Male,Co-Founder,SendHub,2012
+Omar,Bohsali,Male,Co-Founder,Priceonomics,2012
+Rohin,Dhar,Male,Co-Founder,Priceonomics,2012
+Cameron,Urban,Male,Co-Founder,JellyfishArt.com,2012
+Quin,Hoxie,Male,Co-Founder,Swiftype,2012
+Matt,Riley,Male,Co-Founder,Swiftype,2012
+James,Beshara,Male,Co-founder,Crowdtilt,2012
+Khaled,Hussein,Male,Co-founder,Crowdtilt,2012
+Andrew,Lee,Male,Cofounder,Firebase,2012
+James,Tamplin,Male,Cofounder,Firebase,2012
+Amir,Ghazvinian,Male,Founder,Exec,2012
+Justin,Kan,Male,Founder,Exec,2012
+Daniel,Kan,Male,Co-Founder,Exec,2012
+Lauren,McLeod,Female,Founder,Flightfox,2012
+Todd,Sullivan,Male,Founder,Flightfox,2012
+Mehul,Nariyawala,Male,Co-founder,Flutter,2012
+Navneet,Dalal,Male,Co-founder & CEO,Flutter,2012
+Sam,Odio,Male,Co-Founder,Freshplum,2012
+Nick,Alexander,Male,Co-Founder,Freshplum,2012
+Rafael,Garcia,Male,"CTO, Co-Founder",Clever,2012
+Tyler,Bosmeny,Male,"CEO, Co-Founder",Clever,2012
+Daniel,Carroll,Male,"COO, Co-Founder",Clever,2012
+Victor,Ho,Male,Co-Founder and CEO,FiveStars Loyalty,2012
+Matt,Doka,Male,Co-Founder and CTO,FiveStars Loyalty,2012
+Ilya,Gluhovsky,Male,Co-founder & CTO,GetGoing,2012
+Alek,Vernitsky,Male,Co-founder & CEO,GetGoing,2012
+Alek,Strygin,Male,Co-founder & COO,GetGoing,2012
+Karri,Saarinen,Male,Design Co-Founder,Kippt,2012
+Jori,Lallo,Female,Co-Founder,Kippt,2012
+Matt,Zitzmann,Male,Co-Founder and CEO,Kamcord,2012
+Kevin,Wang,Male,Co-Founder,Kamcord,2012
+Aditya,Rathnam,Male,Co-Founder,Kamcord,2012
+Michael,Carvin,Male,Co-founder & CEO,SmartAsset,2012
+Philip,Camilleri,Male,Co-founder & CTO,SmartAsset,2012
+Mike,Knoop,Male,Co-founder,Zapier,2012
+Wade,Foster,Male,Co-founder,Zapier,2012
+Bryan,Helmig,Male,Co-founder,Zapier,2012
+Neil,Joglekar,Male,Co-Founder,ReelSurfer,2012
+Christian,Yang,Male,Co-Founder,ReelSurfer,2012
+Wesley,Zhao,Male,Co-founder,FamilyLeaf,2012
+Ajay,Mehta,Male,Co-founder,FamilyLeaf,2012
+Henry,Liu,Male,Co-founder,FamilyLeaf,2012
+Brandon,Paton,Male,Co-founder,FamilyLeaf,2012
+Markus A.,Nordvik,Male,"Co-Founder, CPO",MyVR,2012
+Jonathan,Murray,Male,"Co-Founder, CEO",MyVR,2012
+Mike,Stachowiak,Male,"Co-Founder, CTO",MyVR,2012
+Gaurav,Sharma,Male,Co-Founder,Chute,2012
+Ranvir,Gujral,Male,Co-Founder,Chute,2012
+Gregarious,Narain,Male,Co-Founder,Chute,2012
+Al,Abut,Male,CDO & Co-founder,Referly,2012
+Danielle,Morrill,Female,CEO & Co-Founder,Referly,2012
+Kevin,Morrill,Male,CTO & Co-Founder,Referly,2012
+Omar,Ismail,Male,Co-Founder,Streak,2012
+Aleem,Mawani,Male,Co-Founder,Streak,2012
+Alex,Mittal,Male,Co-Founder & CEO,FundersClub,2012
+Boris,Silver,Male,Co-Founder & President,FundersClub,2012
+Max,Mullen,Male,Co-founder,Instacart,2012
+Apoorva,Mehta,Male,Founder,Instacart,2012
+Brandon,Leonardo,Male,Co-founder,Instacart,2012
+Nikhil,Nirmel,Male,"Founder, CEO",Lawdingo,2012
+Bruce,Tribbensee,Male,Founder,Submittable,2012
+Michael,FitzGerald,Male,Founder,Submittable,2012
+John,Brownell,Male,Founder,Submittable,2012
+Seth,Bannon,Male,Co-founder & CEO,Amicus,2012
+Venky,B,Male,Co-founder,Plivo,2012
+Michael,Ricordeau,Male,Co-Founder,Plivo,2012
+Tomer,London,Male,CPO & Co-Founder,ZenPayroll,2012
+Joshua,Reeves,Male,CEO & Co-Founder,ZenPayroll,2012
+Edward,Kim,Male,CTO & Co-Founder,ZenPayroll,2012
+Anirban,Bardalaye,Male,CEO & Co-Founder,Zaranga,2012
+Amitav,Chakravartty,Male,CTO & Co-Founder,Zaranga,2012
+Alexander,Debelov,Male,Co-founder and CEO,Virool,2012
+Vladimir,Gurgov,Male,Co-founder,Virool,2012
+Brian,Armstrong,Male,Co-founder/CEO,Coinbase,2012
+Fred,Ehrsam,Male,Co-Founder,Coinbase,2012
+Jeffrey,Brice,Male,CEO and Founder,TrustEgg,2012
+John,Zdanowski,Male,CFO and Co-Founder,TrustEgg,2012
+Peter,Clark,Male,Co-founder,userfox,2012
+Cesar,Alaniz,Male,Co-founder,userfox,2012
+Olga,Vidisheva,Female,Founder,Shoptiques,2012
+Jennifer,Toda,Female,Co-Founder,Scoutzie,2012
+Kirill,Zubovsky,Male,Founder and Chief Scout,Scoutzie,2012
+Jaigouk,Kim,Male,"Co-Founder, CTO",Scoutzie,2012
+Yuriy,Romaniw,Male,Co-Founder,viaCycle,2012
+AJ,Forsythe,Male,CEO and Founder,iCracked,2012
+Anthony,Martin,Male,"Co-Founder, Chief of Strategy",iCracked,2012
+Anand,Dass,Male,Founder,Ink,2012
+Brett,van Zuiden,Male,Founder,Ink,2012
+Liyan,Chang,Male,Founder,Ink,2012
+Thomas,Georgiou,Male,Founder,Ink,2012
+Michael,Waxman,Male,Founder & CEO,Grouper,2012
+Tom,Brown,Male,Co-founder & CTO,Grouper,2012
+Cullen,Wilson,Male,Co-Founder & CPO,Partnered,2012
+Baldwin,Cunningham,Male,Co - Founder & CEO,Partnered,2012
+Aarjav,Trivedi,Male,Founder,InstantCab,2012
+Juan,Vasquez,Male,Co-Founder,Tastemaker,2012
+Joe,Fraiman,Male,Co-Founder & CEO,Tastemaker,2012
+Esther,Park,Female,Co-Founder,Tastemaker,2012
+Kyle,Larson,Male,Co-Founder,Tastemaker,2012
+Chris,Kelly,Male,Co-Founder,Survata,2012
+Aaron,Wenger,Male,Co-Founder,Survata,2012
+Elli,Sharef,Female,Co-Founder,HireArt,2012
+Dain,Lewis,Male,Co-Founder,HireArt,2012
+Nicholas,Sedlet,Male,Co-Founder,HireArt,2012
+Peter,Shih,Male,Co-Founder and Hacker,Airbrite,2012
+Chris,Tsai,Male,Co-Founder,Airbrite,2012
+Brian,Nguyen,Male,Co-Founder,Airbrite,2012
+Daniel,Palacio,Male,Founder,Authy Inc.,2012
+Dharmesh,Malam,Male,Co - Founder & CEO,BigCalc,2012
+Rikin,Shah,Male,Co - Founder,BigCalc,2012
+Chris,Roebuck,Male,Co - Founder,BigCalc,2012
+Jordan,Lee,Male,Founder,Collections,2012
+Ben,Ogle,Male,Co-Founder,Easel,2012
+Matt,Colyer,Male,Co-Founder,Easel,2012
+Len,Hafetz,Male,CEO & Founder,Easel,2012
+Khang,Tran,Male,Co-founder Binary Thumb,Binary Thumb,2012
+Michael,Lin,Male,Co-founder,Binary Thumb,2012
+Daniel,Sperling-Horowitz,Male,President & Co-Founder,HD Trade Services,2012
+Daniel,Sugarman,Male,"CEO/Founder, CTO",HD Trade Services,2012
+Sean,Ahrens,Male,Founder and CEO,Healthy Labs,2012
+Martin,Poschenrieder,Male,CEO & Co-Founder,HiMom,2012
+Markus,Jura,Male,CTO & Co-Founder,HiMom,2012
+Gabe,Ragland,Male,Founder,imgfave,2012
+Mandar,Agte,Male,CEO & Co-Founder,mth sense,2012
+Anantha,Katragadda,Male,"Co-Founder, CEO",Profig,2012
+Vamsi,Katragadda,Male,"Co-Founder, CTO",Profig,2012
+Shuang,You,Female,Co-Founder,QuicklyChat,2012
+James,Harvey,Male,Co-Founder,QuicklyChat,2012
+Yuran,Lu,Male,Co-Founder,QuicklyChat,2012
+Marika,Chen,Female,Co-Founder,RegistryLove,2012
+Sofia,Chen,Female,Co-Founder,RegistryLove,2012
+Jeremy,Poteck,Male,Co-Founder,RegistryLove,2012
+Ian,Tien,Male,Co-Founder,SpinPunch,2012
+Greg,Laughlin,Male,Co-founder,Statwing,2012
+John,Le,Male,Co-founder,Statwing,2012
+Paul,Cretu,Male,Co-founder,TapIn.tv,2012
+Vu,Tran,Male,Co-founder,TapIn.tv,2012
+David,Dancause,Male,Co-founder,TapIn.tv,2012
+Adam,Ryman,Male,Co-founder,TapIn.tv,2012
+David,Tyler,Male,Co-founder,TapIn.tv,2012
+Tyler,Menezes,Male,Co-founder,TapIn.tv,2012
+Jennifer,Schumaker,Female,Co-founder,TapIn.tv,2012
+Erik,Abair,Male,CTO and co-founder,Kyte,2012
+Daniel,Graf,Male,CEO and co-founder,Kyte,2012
+Alex,Lin,Male,"Founder, CEO",LVL6,2012
+Bradford,Toney,Male,"Co-Founder, Chief Information Officer, Chief Security Officer",Medigram,2012
+Yuhao,Ding,Male,"Co-Founder, Chief Technology Officer",Medigram,2012
+Philipp,Wein,Male,"Co-Founder, AD",Popset,2012
+Jan,Senderek,Male,Co-Founder & CEO,Popset,2012
+Nicolas,Bös,Male,Co-Founder & CTO,Popset,2012
+Daniel,Wagner,Male,"Co-Founder, Lead Dev",Popset,2012
+Steven,Liu,Male,"Founder, Member of Board of Directors",Screenleap,2012
+Allison,Huynh,Female,"Founder, CTO",Screenleap,2012
+Tuyen,Truong,Male,Founder/CEO,Screenleap,2012
+Julie,Edwards,Male,"Founder, COO",Screenleap,2012
+Lawrence,Gentilello,Male,Co-Founder and Board Director,Screenleap,2012
+Melissa,McCreery,Female,"Founder, EIC & Rogue Developer",The Muse,2013
+Alex,Cavoulacos,Male,Founder & COO,The Muse,2013
+Kathryn,Minshew,Female,Founder & CEO,The Muse,2013
+Keith,Guerin,Male,Co-Founder and Designer,Microryza,2013
+Jarrett,Streebin,Male,Co-Founder,EasyPost,2013
+Jon,Calhoun,Male,Co-Founder,EasyPost,2013
+Matin,Tamizi,Male,CEO/Co-founder,Balanced,2013
+Mahmoud,Abdelkader,Male,CTO/Co-founder,Balanced,2013
+Jessica,Greenwalt,Female,Founder,CrowdMed,2013
+Leonardo,Setyanto,Male,Co-founder,CrowdMed,2013
+Jared,Heyman,Male,Founder,CrowdMed,2013
+Umang,Patel,Male,Co-Founder,PayTango,2013
+Brian,Groudan,Male,Co-Founder,PayTango,2013
+Kelly,Lau-Kee,Female,Co-Founder,PayTango,2013
+Christian,Reyes,Male,Co-Founder,PayTango,2013
+Jonathan,Downey,Male,Founder / CEO,Airware,2013
+Meron,Gribetz,Male,Founder,Meta,2013
+Ben,Sand,Male,Founder,Meta,2013
+Bryan,Beshore,Male,Co-Founder,Keychain Logistics,2013
+Garrett,Wilson,Male,Co-Founder,Keychain Logistics,2013
+Boris,Jabes,Male,Co-Founder,Meldium,2013
+Anton,Vaynshtok,Male,Co-Founder,Meldium,2013
+Bradley,Buda,Male,Co-Founder,Meldium,2013
+Parker,Conrad,Male,Co-founder and CEO,Zenefits,2013
+Laks,Srini,Male,Founder,Zenefits,2013
+Patrik,Outericky,Male,Founder & CTO,SimpleLegal,2013
+Nathan,Wenzel,Male,Founder & CEO,SimpleLegal,2013
+Niccolo,Pantucci,Male,Co-Founder,Siasto,2013
+Courtland,Allen,Male,Co-Founder,Siasto,2013
+James,Richards,Male,Co-founder & CEO,Teleborder,2013
+Michael,Smith,Male,Co-founder & CTO,Teleborder,2013
+Cedric,Dahl,Male,Founder & CEO,Buttercoin,2013
+Bennett,Hoffman,Male,Founder & CTO,Buttercoin,2013
+Joel,Gillman,Male,Developer / Co-Founder,Goldbely,2013
+Trevor,Stow,Male,CTO / Co-Founder,Goldbely,2013
+Joe,Ariel,Male,Founder/CEO,Goldbely,2013
+Vanessa,Torrivilla,Female,Creative Co-Founder,Goldbely,2013
+Mike,Robbins,Male,Co-Founder & CEO,CircuitLab,2013
+Humberto,Evans,Male,"Co-Founder, President & COO",CircuitLab,2013
+Nitesh,Goel,Male,Co-Founder,Padlet,2013
+Pranav,Piyush,Male,Co-Founder,Padlet,2013
+Walker,Williams,Male,Co-founder,Teespring,2013
+Evan,Stites-Clayton,Male,Co-founder,Teespring,2013
+Bob,Aspell,Male,Co-Founder,SimplyInsured,2013
+Vivek,Shah,Male,Co - Founder & CEO,SimplyInsured,2013
+Taylor,Brown,Male,Founder,Fivetran,2013
+George,Fraser,Male,Founder & CEO,Fivetran,2013
+Neel,Murthy,Male,Co-Founder,Swapbox,2013
+Nitin,Shantharam,Female,Co-Founder,Swapbox,2013
+Anson,Tsui,Male,Founder,SpoonRocket,2013
+Steven,Hsiao,Male,Founder,SpoonRocket,2013
+Xan,Tanner,Male,Co-Founder/Director of Operations,Panorama Education,2013
+Aaron,Feuer,Male,Co-Founder/CEO,Panorama Education,2013
+David,Carel,Male,Co-Founder/Director of Research and Partnerships,Panorama Education,2013
+Jaclyn,Konzelmann,Female,Co-Founder,Amulyte,2013
+Perry,Haldenby,Male,Co-Founder,Amulyte,2013
+Brent,Goldman,Male,Co-founder,Standard Treasury,2013
+Daniel,Kimerling,Male,Co-Founder,Standard Treasury,2013
+Zac,Townsend,Male,Co-Founder,Standard Treasury,2013
+Glen,Moriarty,Male,Founder & CEO,7 Cups of Tea,2013
+Chad,Powell,Male,Co-Founder,BloomThat,2013
+David,Bladow,Male,Co-Founder,BloomThat,2013
+Matthew,Schwab,Male,Co-Founder,BloomThat,2013
+Maran,Nelson,Female,Co-Founder and CEO,Crowdery,2013
+Aditya,Viswanathan,Male,Co-Founder,Crowdery,2013
+Sam,Brin,Male,"Co-Founder, CEO",Butter Systems,2013
+Jon,Li,Male,"Co-Founder, CTO",Butter Systems,2013
+Garrett,Beck,Male,CSO & Co-Founder,Asseta,2013
+Anton,Brevde,Male,CEO & Co-Founder,Asseta,2013
+Danial,Afzal,Male,CTO & Co-Founder,Asseta,2013
+Jonathan,Pease,Male,COO & Co-Founder,Asseta,2013
+Shahbano,Imran,Female,Co-Founder,LocalOn,2013
+David,Tolioupov,Male,Co-Founder,LocalOn,2013
+Alex,Selig,Male,"Co-Founder, CEO",SoundFocus,2013
+Varun,Srinivasan,Male,"Co-Founder, Engineer",SoundFocus,2013
+Leore,Avidar,Male,Co-Founder & CEO,Lob,2013
+Harry,Zhang,Male,Co-Founder,Lob,2013
+Nicholas,Chirls,Male,Co-Founder,Estimote,2013
+Jakub,Krzych,Male,CEO & Co-Founder,Estimote,2013
+Lukasz,Kostka,Male,CTO & Co-Founder,Estimote,2013
+Nancy,Hua,Female,Founder and CEO,Apptimize,2013
+Jeremy,Orlow,Male,Founder and CTO,Apptimize,2013
+Danny,Olinsky,Male,Founder,StatusPage,2013
+Scott,Klein,Male,Founder,StatusPage,2013
+Steven,Klein,Male,Founder,StatusPage,2013
+Fei,Deyle,Female,CEO & Co-Founder,Lollipuff,2013
+Erica,Brescia,Female,Co-founder,Bitnami,2013
+Rosanna,Yau,Female,Design Co-Founder,Backerkit,2013
+Iolanthe,Chronis,Female,Co-founder & CEO,Swish,2013
